@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-<<<<<<< HEAD
     <h1></h1>
     <el-menu
       :default-active="activeIndex"
@@ -25,7 +24,6 @@
       <el-menu-item index="4">購物車</el-menu-item>
     </el-menu>
     <div class="line"></div>
-=======
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -53,13 +51,11 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
->>>>>>> e70bf68... init
   </div>
 </template>
 
 <script>
 export default {
-<<<<<<< HEAD
   name: "HelloWorld",
   props: {
     msg: String
@@ -79,13 +75,7 @@ export default {
     }
   }
 };
-=======
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
-}
->>>>>>> e70bf68... init
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

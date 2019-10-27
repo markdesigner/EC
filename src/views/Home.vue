@@ -1,11 +1,8 @@
 <template>
   <div class="home">
-<<<<<<< HEAD
     <HelloWorld/>
-=======
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
->>>>>>> e70bf68... init
   </div>
 </template>
 
